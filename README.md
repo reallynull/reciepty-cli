@@ -1,8 +1,8 @@
-  # reciepty-cli
+  # 🧾 reciepty-cli
   
   ## Description<br>
 
-  A reciept viewer and saver, along with a few other features that make your life a whole lot easier.
+  A reciept viewer and saver, along with a few other features that make your life a whole lot easier. 🚀
 
   ## Table of Contents
 
@@ -21,7 +21,7 @@
 
 
 ## Installation Instructions
-  Run the Python file included.
+  Run the Python file included. 🐍
 
   ## Usage Instructions
   No examples or instructions needed.
