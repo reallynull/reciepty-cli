@@ -14,10 +14,10 @@
 * [license](#license)
 
 
-## Installation Instructions
+## installation instructions
   run the python file included. 🐍
   
-## Questions
+## questions
   have questions about this repository? reach me at:<br> 
   my github profile: reallynull<br> 
   my email: replylegend@gmail.com<br> 
