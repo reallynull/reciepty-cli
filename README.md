@@ -1,7 +1,5 @@
-
   # reciepty-cli
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
+  
   ## Description<br>
 
   A reciept viewer and saver, along with a few other features that make your life a whole lot easier.
@@ -41,5 +39,4 @@
 
   ## License
 
-    ### This application is licensed under the MIT license.
-
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
