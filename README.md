@@ -13,6 +13,8 @@
   
 * [license](#license)
 
+* [progress] (#progress)
+
 
 ## installation instructions
   run the python file included. 🐍
@@ -25,3 +27,10 @@
   ## license
 
   [![license: mit](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  
+  ## progress
+ 
+- [x] Basic CLI
+- [ ] JSON Database
+- [ ] Work on GUI
+
