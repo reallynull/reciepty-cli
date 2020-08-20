@@ -1,27 +1,27 @@
   # 🧾 reciepty-cli
   
-  ## Description<br>
+  ## description<br>
 
-  A reciept viewer and saver, along with a few other features that make your life a whole lot easier. 🚀
+  a reciept viewer and saver, along with a few other features that make your life a whole lot easier. 🚀
 
-  ## Table of Contents
+  ## table of contents
 
-  * [Installation Instructions](#installation-instructions)
+  * [installation instructions](#installation-instructions)
  
-  * [Questions](#questions)
+  * [questions](#questions)
 
   
-* [License](#license)
+* [license](#license)
 
 
 ## Installation Instructions
-  Run the Python file included. 🐍
+  run the python file included. 🐍
   
 ## Questions
-  Have questions about this Repository? Reach me at:<br> 
-  My GitHub Profile: reallynull<br> 
-  My email: replylegend@gmail.com<br> 
+  have questions about this repository? reach me at:<br> 
+  my github profile: reallynull<br> 
+  my email: replylegend@gmail.com<br> 
 
-  ## License
+  ## license
 
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  [![license: mit](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
