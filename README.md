@@ -13,7 +13,7 @@
   
 * [license](#license)
 
-* [progress] (#progress)
+* [progress](#progress)
 
 
 ## installation instructions
