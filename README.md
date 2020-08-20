@@ -7,13 +7,7 @@
   ## Table of Contents
 
   * [Installation Instructions](#installation-instructions)
-  
-  * [Usage Instructions](#usage-instructions)
-  
-  * [Contributing](#contributing)
-  
-  * [Tests](#tests)
-  
+ 
   * [Questions](#questions)
 
   
@@ -22,18 +16,9 @@
 
 ## Installation Instructions
   Run the Python file included. 🐍
-
-  ## Usage Instructions
-  No examples or instructions needed.
-
-  ## Contributing
-  There are no Guidelines for contributing to this Project, you cannot contribute.
-
-  ## Tests
-  No testing instructions.
-
-  ## Questions
-  Have Questions about this Repository? Reach me at:<br> 
+  
+## Questions
+  Have questions about this Repository? Reach me at:<br> 
   My GitHub Profile: reallynull<br> 
   My email: replylegend@gmail.com<br> 
 
