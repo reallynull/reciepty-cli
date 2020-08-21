@@ -30,6 +30,6 @@
   ## progress
  
 - [x] Basic CLI
-- [x] JSON Database
+- [ ] JSON Database
 - [ ] Work on GUI
 
