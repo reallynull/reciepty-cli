@@ -1,6 +1,7 @@
-import os:
+import os
 import sys
 import json
+import time
 print('Welcome to receipty, a CLI receipt saving program with dozens of useful features to interact with your receipts!')
 print('Would you like to either [1], save a receipt, or [2], check your receipt database, or [3], exit the program')
 x = input()
@@ -56,9 +57,9 @@ if x == '[1]':
     print("Enter receipt info below...")
     print('What is the total price of all items on your receipt?')
 if x == '2':
-    print('The price for your last item is')
     with open('C:/Users/snara/Downloads/receipty/database.json') as jsonfile:
         data = json.load(jsonfile)
-        print(data["Price"])
-if x == '[2]':
-    print('Loading receipt database...')
+        time.sleep(1.5)
+        print('The price for your last item is', (data["Price"]))
+        time.sleep(1.5)
+        print('The name for your last item is', (data["Name"]))
