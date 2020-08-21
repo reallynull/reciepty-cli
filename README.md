@@ -21,8 +21,7 @@
   
 ## questions
   have questions about this repository? reach me at:<br> 
-  my github profile: reallynull<br> 
-  my email: replylegend@gmail.com<br> 
+  my github profile: reallynull<br>
 
   ## license
 
