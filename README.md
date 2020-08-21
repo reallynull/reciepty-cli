@@ -17,7 +17,7 @@
 
 
 ## installation instructions
-  run the python file included. 🐍
+  run the python file included & and make sure to download the .json file or make a file in your directory named database.json.
   
 ## questions
   have questions about this repository? reach me at:<br> 
