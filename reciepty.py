@@ -5,7 +5,7 @@ def test():
     print('Welcome to receipty, a CLI receipt saving program with dozens of useful features to interact with your receipts!')
     print('Would you like to either [1], save a receipt, or [2], check your receipt database, or [3], exit the program')
     x = input()
-    if x == '3': #
+    if x == '3': 
         sys.exit()
     if x == '[3]':
         sys.exit()
@@ -29,7 +29,6 @@ def test():
                 sys.exit()
             else:
                 os.system('python reciepty.py')
-            # Data to be written
             if int(total_receipt_items) > 5:
                 print('Please enter the names and prices of your 5 or more items.')
                 print('What is the name of item one?')
