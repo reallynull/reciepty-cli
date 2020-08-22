@@ -32,5 +32,5 @@
 - [x] Basic CLI
 - [x] JSON Database
 - [ ] RIVS (reciept item variable system)
-- [ ] GUI
+- [ ] GUI & OCR (so you can scan reciepts by Camera)
 
