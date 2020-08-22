@@ -1,7 +1,7 @@
 import os
 import sys
 import json
-import time
+# make sure to add a system to automatically make variables for the items in Python.
 print('Welcome to receipty, a CLI receipt saving program with dozens of useful features to interact with your receipts!')
 print('Would you like to either [1], save a receipt, or [2], check your receipt database, or [3], exit the program')
 x = input()
@@ -24,8 +24,8 @@ if x == '1':
         print('Is that all you are saving to the receipt database?')
         receipt_answer = input()
         dictionary = {
-            'Price': item_one_price,
-            'Name': item_one_name
+            'price': item_one_price,
+            'pame': item_one_name
         }
         json_object = json.dumps(dictionary, indent=4)
         with open("database.json", "w") as outfile:
@@ -58,7 +58,5 @@ if x == '[1]':
 if x == '2':
     with open('C:/Users/snara/Downloads/receipty/database.json') as jsonfile:
         data = json.load(jsonfile)
-        time.sleep(1.5)
-        print('The price for your last item is', (data["Price"]))
-        time.sleep(1.5)
-        print('The name for your last item is', (data["Name"]))
+        print('The price for your last item is', (data["price"]))
+        print('The name for your last item is', (data["name"]))
