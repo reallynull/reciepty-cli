@@ -31,5 +31,6 @@
  
 - [x] Basic CLI
 - [x] JSON Database
-- [ ] Work on GUI
+- [ ] RIVS (reciept item variable system)
+- [ ] GUI
 
