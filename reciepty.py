@@ -1,7 +1,6 @@
 import os
 import sys
 import json
-# make sure to add a system to automatically make variables for the items in Python.
 print('Welcome to receipty, a CLI receipt saving program with dozens of useful features to interact with your receipts!')
 print('Would you like to either [1], save a receipt, or [2], check your receipt database, or [3], exit the program')
 x = input()
