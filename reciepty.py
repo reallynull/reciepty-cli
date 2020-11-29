@@ -55,7 +55,7 @@ if x == '[1]':
     print("Enter receipt info below...")
     print('What is the total price of all items on your receipt?')
 if x == '2':
-    with open('C:/Users/snara/Downloads/receipty/database.json') as jsonfile:
+    with open('C:/Users/user/Downloads/receipty/database.json') as jsonfile:
         data = json.load(jsonfile)
         print('The price for your last item is', (data["price"]))
         print('The name for your last item is', (data["name"]))
